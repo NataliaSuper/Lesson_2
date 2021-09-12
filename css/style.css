@@ -1,0 +1,15 @@
+p {
+  color: green;
+}
+
+body {
+  font-size: 40px;
+}
+
+body div {
+  font-size: 12px;
+}
+
+.red {
+  color: red;
+}
